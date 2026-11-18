@@ -1,0 +1,88 @@
+======================================================================
+TOP 10 PROMO RECOMMENDATIONS
+Show: I Married a Broken Soldier. He was a Duke
+======================================================================
+
+#1 [Ep03] 01:00.00 - 01:50.00 (dur:50.0s | score:29.60)
+  HOOK: "Medium shot as two royal guards in red uniforms and bearskin caps step"; "The guards forcefully grab Juliana by both shoulders and drag her back"
+  CLIFFHANGER: Unresolved scene end
+  WHY IT WORKS: Strong visual/dialogue hook that stops a scroll; self-contained conflict — works for viewers with no prior context
+  Scores -> Hook:10.0 | Emotion:0.40 | Cliff:0.0 | Standalone:9.0 | TOTAL:29.6
+
+#2 [Ep13] 00:54.00 - 01:24.00 (dur:30.0s | score:29.00)
+  HOOK: "Ground-level shot of Juliana's bare hands reaching out onto the cracke"; "Sharp blackthorn spines rake across Juliana's fingers and knuckles, ca"
+  CLIFFHANGER: Unresolved scene end
+  WHY IT WORKS: Strong visual/dialogue hook that stops a scroll; self-contained conflict — works for viewers with no prior context; Clarissa's cruelty on display — instant hate-watch engagement
+  Scores -> Hook:10.0 | Emotion:0.67 | Cliff:0.0 | Standalone:8.0 | TOTAL:29.0
+
+#3 [Ep28] 00:45.00 - 01:45.00 (dur:60.0s | score:28.83)
+  HOOK: "Medium shot of the Duchess lunging forward from the pillows, gasping f"; "They have been—"
+  CLIFFHANGER: Unresolved scene end
+  WHY IT WORKS: Strong visual/dialogue hook that stops a scroll; self-contained conflict — works for viewers with no prior context
+  Scores -> Hook:10.0 | Emotion:0.88 | Cliff:0.0 | Standalone:7.5 | TOTAL:28.83
+
+#4 [Ep15] 00:48.00 - 01:13.00 (dur:25.0s | score:28.10)
+  HOOK: "The Thug with Cap violently shoves Juliana back with both hands; she c"; "Ah!"
+  CLIFFHANGER: Unresolved scene end
+  WHY IT WORKS: Strong visual/dialogue hook that stops a scroll
+  Scores -> Hook:10.0 | Emotion:1.07 | Cliff:0.0 | Standalone:6.5 | TOTAL:28.1
+
+#5 [Ep13] 01:18.00 - 01:43.00 (dur:25.0s | score:27.44)
+  HOOK: "Close-up of Juliana's hand getting snagged between two vicious thorns,"; "Ah!"
+  CLIFFHANGER: Unresolved scene end
+  WHY IT WORKS: Strong visual/dialogue hook that stops a scroll
+  Scores -> Hook:10.0 | Emotion:0.62 | Cliff:0.0 | Standalone:6.5 | TOTAL:27.44
+
+#6 [Ep35] 01:30.00 - 02:10.00 (dur:40.0s | score:27.43)
+  HOOK: "Close-up on his mother, gasping with wide, horrified eyes."; "A traitor?"
+  CLIFFHANGER: Unresolved scene end
+  WHY IT WORKS: Strong visual/dialogue hook that stops a scroll; self-contained conflict — works for viewers with no prior context
+  Scores -> Hook:8.0 | Emotion:0.95 | Cliff:1.5 | Standalone:7.0 | TOTAL:27.43
+
+#7 [Ep36] 01:24.00 - 02:14.00 (dur:50.0s | score:26.22)
+  HOOK: "Quick push-in close-up on Alexander, his eyes snapping open in sudden "; "What?"
+  CLIFFHANGER: Unresolved scene end
+  WHY IT WORKS: Strong visual/dialogue hook that stops a scroll; self-contained conflict — works for viewers with no prior context
+  Scores -> Hook:8.0 | Emotion:1.81 | Cliff:0.0 | Standalone:7.5 | TOTAL:26.22
+
+#8 [Ep01] 00:39.00 - 01:04.00 (dur:25.0s | score:26.00)
+  HOOK: "Close-up on the Lady in Gold Gown beaming with cruel triumph."; "Because he is marrying me."
+  CLIFFHANGER: Unresolved scene end
+  WHY IT WORKS: Decent opening hook; self-contained conflict — works for viewers with no prior context
+  Scores -> Hook:5.5 | Emotion:2.00 | Cliff:1.5 | Standalone:9.0 | TOTAL:26.0
+
+#9 [Ep16] 00:51.00 - 01:16.00 (dur:25.0s | score:25.35)
+  HOOK: "Extreme close-up of the terrified thug gasping for air, his eyes bulgi"; "Harrington! Gerald Harrington paid us!"
+  CLIFFHANGER: Unresolved scene end
+  WHY IT WORKS: Strong visual/dialogue hook that stops a scroll; self-contained conflict — works for viewers with no prior context
+  Scores -> Hook:8.5 | Emotion:0.24 | Cliff:0.0 | Standalone:8.0 | TOTAL:25.35
+
+#10 [Ep10] 00:00.00 - 00:40.00 (dur:40.0s | score:25.30)
+  HOOK: "Medium profile shot of Juliana sitting at a wooden table beside the gl"; "Juliana quietly studies the botanical illustrations by firelight, a bu"
+  CLIFFHANGER: Unresolved scene end
+  WHY IT WORKS: Strong visual/dialogue hook that stops a scroll; self-contained conflict — works for viewers with no prior context
+  Scores -> Hook:8.5 | Emotion:0.53 | Cliff:0.0 | Standalone:7.5 | TOTAL:25.3
+
+
+======================================================================
+TOP CROSS-EPISODE MONTAGE PROMOS
+======================================================================
+
+#1 Montage: Episodes 9 -> 10 (~30.0s | score:32.15)
+  Segment 1: Ep9 01:40.50 - 01:55.50
+  Segment 2: Ep10 00:00.00 - 00:15.00
+  HOOK: "Close-up of the Blond Nobleman snapping his head around, his smug expr"; "Where?"
+  CLIFFHANGER: "Impossible."
+
+#2 Montage: Episodes 41 -> 42 (~30.0s | score:28.9)
+  Segment 1: Ep41 01:21.09 - 01:36.09
+  Segment 2: Ep42 00:00.00 - 00:15.00
+  HOOK: "A violent fireball bursts inward as the entire cathedral entrance expl"; "Rapid series of panic shots: aristocratic guests ducking behind pews, "
+  CLIFFHANGER: Unresolved scene end
+
+#3 Montage: Episodes 35 -> 36 (~30.0s | score:28.0)
+  Segment 1: Ep35 02:22.50 - 02:37.50
+  Segment 2: Ep36 00:00.00 - 00:15.00
+  HOOK: "Who?"; "Tight close-up on Alexander's scarred, grim visage, his voice dropping"
+  CLIFFHANGER: Unresolved scene end
+
